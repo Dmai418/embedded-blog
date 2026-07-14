@@ -1,7 +1,7 @@
 const {themes} = require('prism-react-renderer');
 
 const config = {
-  title: '麦观鸿的嵌入式学习笔记',
+  title: 'dmai的嵌入式学习笔记',
   tagline: '从零开始，记录STM32、C语言、FreeRTOS的学习之路',
   favicon: 'img/favicon.ico',
   
