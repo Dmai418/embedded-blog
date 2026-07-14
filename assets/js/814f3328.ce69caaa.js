@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkembedded_blog=globalThis.webpackChunkembedded_blog||[]).push([[7472],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"STM32 \u5b66\u4e60\u7b2c\u4e00\u5929 - \u70b9\u706f\u6210\u529f\uff01","permalink":"/embedded-blog/blog/stm32-start","unlisted":false,"date":"2025-06-26T00:00:00.000Z"}]}')}}]);

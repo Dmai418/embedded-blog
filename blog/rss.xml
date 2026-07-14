@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>dmai的嵌入式学习笔记 Blog</title>
+        <link>https://dmai418.github.io/embedded-blog/blog</link>
+        <description>dmai的嵌入式学习笔记 Blog</description>
+        <lastBuildDate>Thu, 26 Jun 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>zh-Hans</language>
+        <item>
+            <title><![CDATA[STM32 学习第一天 - 点灯成功！]]></title>
+            <link>https://dmai418.github.io/embedded-blog/blog/stm32-start</link>
+            <guid>https://dmai418.github.io/embedded-blog/blog/stm32-start</guid>
+            <pubDate>Thu, 26 Jun 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[今天开始了 STM32 的学习之旅！]]></description>
+            <content:encoded><![CDATA[<p>今天开始了 STM32 的学习之旅！</p>]]></content:encoded>
+            <category>stm32</category>
+            <category>入门</category>
+            <category>点灯</category>
+        </item>
+    </channel>
+</rss>

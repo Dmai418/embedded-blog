@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dmai418.github.io/embedded-blog/blog</id>
+    <title>dmai的嵌入式学习笔记 Blog</title>
+    <updated>2025-06-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dmai418.github.io/embedded-blog/blog"/>
+    <subtitle>dmai的嵌入式学习笔记 Blog</subtitle>
+    <icon>https://dmai418.github.io/embedded-blog/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[STM32 学习第一天 - 点灯成功！]]></title>
+        <id>https://dmai418.github.io/embedded-blog/blog/stm32-start</id>
+        <link href="https://dmai418.github.io/embedded-blog/blog/stm32-start"/>
+        <updated>2025-06-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[今天开始了 STM32 的学习之旅！]]></summary>
+        <content type="html"><![CDATA[<p>今天开始了 STM32 的学习之旅！</p>]]></content>
+        <author>
+            <name>麦观鸿</name>
+            <uri>https://github.com/your-username</uri>
+        </author>
+        <category label="stm32" term="stm32"/>
+        <category label="入门" term="入门"/>
+        <category label="点灯" term="点灯"/>
+    </entry>
+</feed>
