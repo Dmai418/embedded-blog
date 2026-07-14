@@ -1,0 +1,26 @@
+:root {
+  --ifm-color-primary: #00b894;
+  --ifm-color-primary-dark: #00a381;
+  --ifm-color-primary-darker: #009a79;
+  --ifm-color-primary-darkest: #007f64;
+  --ifm-color-primary-light: #00cda4;
+  --ifm-color-primary-lighter: #00d6ac;
+  --ifm-color-primary-lightest: #00edbd;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 184, 148, 0.1);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #00e6b3;
+  --ifm-color-primary-dark: #00cfa2;
+  --ifm-color-primary-darker: #00c399;
+  --ifm-color-primary-darkest: #00a17e;
+  --ifm-color-primary-light: #00fdc4;
+  --ifm-color-primary-lighter: #0affc9;
+  --ifm-color-primary-lightest: #33ffd3;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 230, 179, 0.15);
+}
+
+/* 代码高亮 */
+.code-block-add-line { background-color: #00b89420; display: block; }
+.code-block-remove-line { background-color: #ff000020; display: block; }
